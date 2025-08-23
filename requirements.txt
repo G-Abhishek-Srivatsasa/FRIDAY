@@ -1,0 +1,9 @@
+pyttsx3
+SpeechRecognition
+feedparser
+psutil
+wikipedia
+requests
+opencv-python
+numpy
+pyautogui
