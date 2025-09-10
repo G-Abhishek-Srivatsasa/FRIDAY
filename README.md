@@ -20,7 +20,7 @@ It supports **voice interaction, Gmail integration, system monitoring, app autom
 
 ---
 
-## 🚀 Setup Instructions
+## Setup Instructions
 
 ### 1. Clone the repo
 ```bash
